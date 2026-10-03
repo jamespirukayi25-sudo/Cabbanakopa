@@ -1,0 +1,11 @@
+{
+  "name": "Coppakabana Traffic and Transport",
+  "description": "Harare public transport network for kombi drivers, conductors, and passengers: live rank departure boards, seat availability, fare calculator, route roadblocks, passenger ride hailing, and fleet operations.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
